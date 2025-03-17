@@ -13,7 +13,7 @@ A simple web-based library system built with React and Redux.
 - React.js
 - Redux Toolkit
 - React Router
-- Tailwind CSS
+- CSS
 
 ## ⚙️ Installation & Setup
 1. **Clone the repository**:
